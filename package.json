@@ -1,9 +1,6 @@
 {
   "name": "express-local-library-tutorial",
   "version": "1.0.0",
-  "engines": {
-    "node": ">=20.11.0"
-  },
   "description": "",
   "main": "index.js",
   "type": "module",
