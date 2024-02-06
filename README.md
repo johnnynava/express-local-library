@@ -10,6 +10,8 @@ This is more of a tutorial for me to understand how full-stack applications work
 <br>
 • Express
 <br>
+• MongoDB
+<br>
 • Pug
 <br>
 • TypeScript
